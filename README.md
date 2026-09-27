@@ -10,7 +10,9 @@ Data science student at **Universiti Malaya**, working across data engineering, 
 - **[Loop](https://github.com/WeeKen99/loop)**: turning employee feedback into accountable management action
 - **[Water Potability](https://github.com/WeeKen99/water-project)**: water-quality classification model
 
+<!--
 ### Tech events & community
 🗓️ *Coming soon:* highlights from the conferences, meetups, workshops and hackathons I attend.
+-->
 
 🌐 Portfolio: [weeken99.github.io](https://weeken99.github.io)
